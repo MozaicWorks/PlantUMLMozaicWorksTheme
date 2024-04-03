@@ -155,3 +155,4 @@ skinparam StateEndColor $COLOR_ENDPOINT
 
 ' Custom 
 skinparam TitleBackgroundColor $COLOR_WHITE
+skinparam PackageBackgroundColor $COLOR_WHITE
